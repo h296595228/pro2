@@ -33,4 +33,4 @@ $data = [
 ];
 
 //载入HTML模板
-require './view/layout.html';?> 
+require './view/layout.html'; 
